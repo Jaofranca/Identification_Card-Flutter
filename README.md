@@ -1,11 +1,11 @@
 ## What is the app about
 
-A simple AboutMe Page
+A simple AboutMe Page with all my social media and github page.
 
 ## What Did i learn
 
 i've learned the basics of Rows,columns,alignments in the Flutter UI,and also how to use
-Icons and Fonts.
+Icons and Fonts(even personalized ones).
 
 ## Screenshot
 
