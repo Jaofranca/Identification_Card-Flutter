@@ -5,4 +5,4 @@ WHO IS WHATSAPP?
 ## Screenshot
 
 <p>
-    <img src="https://imgur.com/i5tYEn9">
+    <img src="https://i.imgur.com/i5tYEn9.jpg">
