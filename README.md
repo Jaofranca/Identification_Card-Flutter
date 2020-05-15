@@ -1,6 +1,11 @@
+## What is the app about
+
+A simple AboutMe Page
+
 ## What Did i learn
 
-WHO IS WHATSAPP?
+i've learned the basics of Rows,columns,alignments in the Flutter UI,and also how to use
+Icons and Fonts.
 
 ## Screenshot
 
